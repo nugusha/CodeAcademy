@@ -1,0 +1,5 @@
+var strength = '50,000 pounds';
+var age = 19;
+var hasPet = true;
+console.log(age);
+console.log(hasPet);
